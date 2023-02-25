@@ -17,7 +17,7 @@ ___
 
 [Delivery performance](http://data.g2b.go.kr)
 
-
+If you need clean data, please contact ehgus7011@naver.com.
 ___
 ## Poster
 ![조달poster](https://user-images.githubusercontent.com/97015589/221364095-c189c69e-b94a-4131-bcec-24aab3ff03fb.jpg)
