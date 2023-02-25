@@ -1,4 +1,4 @@
-# Project-to-predict-dishonest-businessman
+# Dishonest-businessman-prediction-project
 This repository contains the code for entries in the Public Procurement Big Data Contest.
 
 ___
