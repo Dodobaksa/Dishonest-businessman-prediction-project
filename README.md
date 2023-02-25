@@ -7,4 +7,13 @@ Just as auto-hunting users are prevented in games and fraudulent listings in rea
 
 
 ___
-Poster
+## Poster
+![조달poster](https://user-images.githubusercontent.com/97015589/221364095-c189c69e-b94a-4131-bcec-24aab3ff03fb.jpg)
+
+___
+## Dataset
+[List of legitimate business owners](https://data.g2b.go.kr:1443/pt/main/index.do)
+[List of dishonest businessman](https://www.g2b.go.kr:8070/um /injustice/injusticeBizerList.do? whereAreYouFrom=ALL)
+[Financial variables for legitimate business owners](https://sminfo.mss.go.kr/cm/s v/CSV001R0.do)
+[Financial variables for dishonest businessman](https://www.data.go.kr/data/15 043459/openapi.do)
+[Delivery performance](http://data.g2b.go.kr:8275/pt/ pubdata/moveGnrlzPrcureAc msltTotPop.do)
