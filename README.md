@@ -1,4 +1,4 @@
-# Project-to-predict-fraudulent-businesses
+# Project-to-predict-dishonest-businessman
 This repository contains the code for entries in the Public Procurement Big Data Contest.
 
 ___
@@ -9,13 +9,13 @@ ___
 ## Dataset
 [List of legitimate business owners](https://data.g2b.go.kr:1443/pt/main/index.do)
 
-[List of dishonest businessman](https://www.g2b.go.kr:8070/um /injustice/injusticeBizerList.do? whereAreYouFrom=ALL)
+[List of dishonest businessman](https://www.g2b.go.kr)
 
-[Financial variables for legitimate business owners](https://sminfo.mss.go.kr/cm/s v/CSV001R0.do)
+[Financial variables for legitimate business owners](https://sminfo.mss.go.kr)
 
-[Financial variables for dishonest businessman](https://www.data.go.kr/data/15 043459/openapi.do)
+[Financial variables for dishonest businessman](https://www.data.go.kr)
 
-[Delivery performance](http://data.g2b.go.kr:8275/pt/ pubdata/moveGnrlzPrcureAc msltTotPop.do)
+[Delivery performance](http://data.g2b.go.kr)
 
 
 ___
